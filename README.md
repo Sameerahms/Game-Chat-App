@@ -2,6 +2,8 @@
 
 Fully responsive Chat Messaging platform with Direct and Group Chats, emojis, Reactions, Built-in Gif support, and the ability to edit & delete messages.
 
+Live App: https://polite-kulfi-b6da10.netlify.app/
+
 # Technologies
 * Stream
 * Node
